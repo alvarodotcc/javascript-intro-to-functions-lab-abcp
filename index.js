@@ -23,7 +23,7 @@
       return "YES INDEED!"
       }
       
-      else if (string === ""){
+      else if (string === "I love you, too."){
       return "YES INDEED!"
       }
         
