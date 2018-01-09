@@ -24,7 +24,7 @@
       }
       
       else if (string === "I love you, Grandma."){
-      return "YES INDEED!"
+      return "I love you, too."
       }
         
     }
