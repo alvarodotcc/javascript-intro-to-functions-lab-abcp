@@ -15,12 +15,11 @@
     }
     
     function sayHiToGrandma(string){
-      if (string.toUpperCase() === string){
+      if (string.toLowerCase() === string){
       console.log("I can't hear you!")
       }
         
-      }
-      else (string.toUpperCase() === string){
+      else {
       console.log("I can't hear you!")
       }
     }
