@@ -19,7 +19,4 @@
       console.log("I can\'t hear you!")
       }
         
-      else {
-      console.log("I can't hear you!")
-      }
     }
